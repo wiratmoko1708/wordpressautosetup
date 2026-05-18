@@ -323,7 +323,7 @@ MIT License - Silakan gunakan, modifikasi, dan distribusi sesuka hati!
 
 ## 👨‍💻 Author
 
-**Wikan Wiratmoko**
+**WWW**
 - GitHub: [@wiratmoko1708](https://github.com/wiratmoko1708)
 
 ---
